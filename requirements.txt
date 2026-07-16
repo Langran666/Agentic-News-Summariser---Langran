@@ -1,0 +1,10 @@
+# Core tool dependencies
+langchain-core>=0.3.0
+feedparser>=6.0.11
+requests>=2.31.0
+python-dotenv>=1.0.1
+python-dateutil>=2.9.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
